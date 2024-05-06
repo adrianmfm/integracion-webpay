@@ -22,7 +22,7 @@ Este proyecto es una integración completa de Webpay de Transbank utilizando Nod
 ### b. Configuración de la API:
 - La API estará lista para recibir solicitudes del frontend de React en localhost:3001.
 - La integración con Webpay se encuentra implementada en la API para procesar los pagos.
-# 4. Proceso de pago:
+## 4. Proceso de pago:
 - Una vez que el frontend y la API estén en ejecución, ingresa un valor en el formulario del frontend y procede con el pago utilizando Webpay.
 - La API manejará la comunicación con Webpay y procesará la transacción de forma segura.
 - ¡Disfruta explorando la integración de Webpay y realizando pagos en línea de manera sencilla!
