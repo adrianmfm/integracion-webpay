@@ -13,7 +13,7 @@ Este proyecto es una integración completa de Webpay de Transbank utilizando Nod
 ### b. Interfaz de usuario:
 - Accede a localhost:3000 en tu navegador para ver la interfaz de usuario del proyecto.
 - En la página, encontrarás un formulario donde puedes ingresar el valor a pagar y proceder con el pago utilizando Webpay.
-# 3. Backend de Node.js con Express:
+## 3. Backend de Node.js con Express:
 ### a. Inicia el servidor de la API:
 - Abre otra terminal en la carpeta raíz del proyecto.
 - Navega a la carpeta backend utilizando el comando cd backend.
